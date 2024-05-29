@@ -1,4 +1,4 @@
-git clone https://github.com/yash0902/CodaAlpha_Tasks.git
+git clone https://github.com/yash0902/PacketSniffer.git
 pip install scapy
-cd CodeAlpha_Tasks
+cd PacketSniffer
 python3 basic_packet_sniffer.py <interface>
